@@ -14,8 +14,8 @@ The Cab Booking Chatbot is a simple Python-based console application that allows
 - 🛡️ Handles invalid cab, route, and menu choices.
 
 ## 🛠️ Technologies Used
-- Python 3
-- Random Module
+- Python 3.
+- Random Module.
 
 ## 🚕 Cab Rates
 
